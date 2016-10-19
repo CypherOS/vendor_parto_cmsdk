@@ -705,7 +705,6 @@ package cyanogenmod.platform {
     field public static final java.lang.String LIVE_LOCK_SCREEN_MANAGER_ACCESS = "cyanogenmod.permission.LIVE_LOCK_SCREEN_MANAGER_ACCESS";
     field public static final java.lang.String MANAGE_ALARMS = "cyanogenmod.permission.MANAGE_ALARMS";
     field public static final java.lang.String MANAGE_LIVEDISPLAY = "cyanogenmod.permission.MANAGE_LIVEDISPLAY";
-    field public static final java.lang.String MANAGE_PARTS = "cyanogenmod.permission.MANAGE_PARTS";
     field public static final java.lang.String MANAGE_PERSISTENT_STORAGE = "cyanogenmod.permission.MANAGE_PERSISTENT_STORAGE";
     field public static final java.lang.String MODIFY_MSIM_PHONE_STATE = "cyanogenmod.permission.MODIFY_MSIM_PHONE_STATE";
     field public static final java.lang.String MODIFY_NETWORK_SETTINGS = "cyanogenmod.permission.MODIFY_NETWORK_SETTINGS";
@@ -743,7 +742,6 @@ package cyanogenmod.platform {
     field public static final int requiresOwner = 1057030150; // 0x3f010006
     field public static final int requiresPackage = 1057030146; // 0x3f010002
     field public static final int requiresProperty = 1057030149; // 0x3f010005
-    field public static final int xmlRes = 1057030151; // 0x3f010007
   }
 
   public static final class R.bool {

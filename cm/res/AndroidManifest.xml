@@ -29,9 +29,6 @@
     <protected-broadcast android:name="cyanogenmod.platform.intent.action.PROFILE_SELECTED" />
     <protected-broadcast android:name="com.cyanogenmod.intent.action.HOTWORD_INPUT_CHANGED" />
 
-    <protected-broadcast android:name="org.cyanogenmod.settings.REFRESH_SUMMARY" />
-    <protected-broadcast android:name="org.cyanogenmod.cmparts.REFRESH_PART" />
-
     <!-- Must be required by an, to ensure that only the system can bind to it.
          @hide -->
     <permission android:name="cyanogenmod.permission.BIND_CUSTOM_TILE_LISTENER_SERVICE"
@@ -278,12 +275,5 @@
                 android:label="@string/permlab_dataUsageWrite"
                 android:description="@string/permdesc_dataUsageWrite"
                 android:protectionLevel="signature|privileged" />
-
-    <!-- Permission for managing remote parts -->
-    <permission android:name="cyanogenmod.permission.MANAGE_PARTS"
-                android:label="@string/permlab_manageParts"
-                android:description="@string/permdesc_manageParts"
-                android:protectionLevel="signature|privileged" />
-
 
 </manifest>
