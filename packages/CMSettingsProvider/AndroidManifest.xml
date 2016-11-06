@@ -33,7 +33,7 @@
                  android:defaultToDeviceProtectedStorage="true"
                  android:directBootAware="true">
 
-        <provider android:name="CMSettingsProvider"
+        <provider android:name="SettingsExtProvider"
                   android:authorities="cmsettings"
                   android:multiprocess="false"
                   android:exported="true"

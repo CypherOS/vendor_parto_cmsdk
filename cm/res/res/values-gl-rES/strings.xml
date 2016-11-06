@@ -17,7 +17,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Label for the CyanogenMod system components when they are shown to the user. -->
-  <string name="cyanogenmod_system_label">Sistema CyanogenMod</string>
+  <string name="cyanogenmod_system_label">Sistema External</string>
   <string name="permlab_publishCustomTile">crear un botón personalizado no panel de axustes rápidos</string>
   <string name="permdesc_publishCustomTile">Permite a unha aplicación publicar un botón de axustes rápidos.</string>
   <string name="permlab_modifyNetworkSettings">cambiar a configuración de rede do sistema</string>

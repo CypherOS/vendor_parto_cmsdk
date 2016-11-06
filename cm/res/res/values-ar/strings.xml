@@ -17,7 +17,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Label for the CyanogenMod system components when they are shown to the user. -->
-  <string name="cyanogenmod_system_label">نظام CyanogenMod</string>
+  <string name="cyanogenmod_system_label">نظام Ext</string>
   <string name="permlab_publishCustomTile">إنشاء لوحة مخصصة ضمن لوحة الإعدادات السريعة</string>
   <string name="permdesc_publishCustomTile">السماح للتطبيق بنشر لوحة الإعدادت السريعة.</string>
   <string name="permlab_modifyNetworkSettings">تغيير إعدادات شبكة النظام</string>

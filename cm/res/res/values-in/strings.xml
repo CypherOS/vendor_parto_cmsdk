@@ -17,7 +17,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Label for the CyanogenMod system components when they are shown to the user. -->
-  <string name="cyanogenmod_system_label">Sistem CyanogenMod</string>
+  <string name="cyanogenmod_system_label">Sistem External</string>
   <string name="permlab_publishCustomTile">buat ubin khusus di panel pengaturan cepat</string>
   <string name="permdesc_publishCustomTile">Mengizinkan aplikasi untuk membuat ubin pengaturan cepat.</string>
   <string name="permlab_modifyNetworkSettings">ubah pengaturan jaringan sistem</string>
